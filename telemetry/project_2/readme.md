@@ -81,7 +81,7 @@ The string received is formatted as **_\<ID>#\<PAYLOAD>_**.
 
 #### ID
 
-In the example is **_0A0_**, it is expressed in hexadecimal, so it represent 160 in decimal base. This field is at most 12 bits, use a uin16_t to represent it.
+In the example is **_0A0_**, it is expressed in hexadecimal, so it represent 160 in decimal base. This field is at most 12 bits, use a uint16_t to represent it.
 
 #### Payload
 
